@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Yas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Yas-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/907862201761693727/976985647631982602">
+  <img align="right" alt="gif-cat" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/76128140/176092260-d6ea93fd-3e67-47a7-9e04-7a5ae46fa71e.gif">
 </div>
   
   ##
